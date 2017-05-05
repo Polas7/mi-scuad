@@ -22,4 +22,4 @@ arr.push(Pola,Nat,Vane,Mina,Katerine,Paulina)
 arr.forEach(function(una){
    document.write("<div>"+"<b>Nombre: </b>" +una.nombre+" "+ una.apellido+"<b> Edad: </b>" + una.edad +"<b><li> Hobbies: </b>"+ una.hobbie+"</li><br></div>")
 });
-//en esta parte me ayudaron, porque no me salia la lista, solo con el forEach :) 
+//en esta parte me ayudaron un poquito, porque no me salia la lista, solo con el forEach :) 
