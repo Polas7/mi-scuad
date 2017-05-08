@@ -47,6 +47,7 @@ function sumar(){
 document.getElementById('contador').innerHTML = contador += 1;
 };
 
+
 //funcion de casilla de texto, igual me funciona solo en la primera persona de la lista :( 
 var arr = [];
 function agregar(){
