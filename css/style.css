@@ -1,0 +1,22 @@
+#boton {
+  background: #eb6ae7;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #e8e8e8;
+  font-size: 15px;
+  padding: 7px 15px 10px 20px;
+  text-decoration: none;
+}
+
+
+#boto{
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  cursor: pointer;
+  margin: 5px;
+}
